@@ -1,0 +1,1 @@
+-- when hunting ,dig deep .. or hunt widely, either focus on a single functionality in a program and understand it deeply in order to find bugs , or perform recon on wide scope programs to find untouched assets , this way you can sperate yourself from the competition and have a higher probability of finding a bug 
