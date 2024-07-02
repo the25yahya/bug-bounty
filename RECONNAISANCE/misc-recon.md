@@ -1,0 +1,3 @@
+- service enumeration using : nmap - naabu
+- passive service enumeration using shodam
+- 
