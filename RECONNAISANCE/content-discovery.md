@@ -7,3 +7,4 @@ photo gallery app, you can quickly skim these to find the interesting-looking
 ones. Keep an eye out for hidden services, such as developer or admin panels,
 directory listing pages, analytics pages, and pages that look outdated and illmaintained.
 These are all common places for vulnerabilities to manifest.
+- use OWASP Zed Attack Proxy (ZAP) to spider the website 
