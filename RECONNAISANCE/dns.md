@@ -10,8 +10,10 @@ internal domains not otherwise disclosed to the public. Use a public reverse
 WHOIS tool like ViewDNS.info (https://viewdns.info/reversewhois/) to conduct
 this search. WHOIS and reverse WHOIS will give you a good set of top-level
 domains to work with.
+- reverse whois with whoxy.com
 
 ### mapping ASN's to ip adressses 
+- scanning asn’s : bgp.he.net - amass intel —asn (asn number) / metabigor / ASNlookup
 - $ whois -h whois.cymru.com 157.240.2.20 : The -h flag in the whois command sets the WHOIS server to retrieve
 information from, and whois.cymru.com is a database that translates IPs to
 ASNs. If the company has a dedicated IP range and doesn’t mark those
