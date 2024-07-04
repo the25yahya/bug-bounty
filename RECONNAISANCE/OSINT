@@ -1,0 +1,15 @@
+The Google Hacking Database (https://www.exploit-db.com/google-hacking-database/) contains useful Google search terms that frequently reveal vulnerabilities or sensitive files.
+KeyHacks (https://github.com/streaak/keyhacks/) helps you determine
+whether a set of credentials is valid and learn how to use them to
+access the target’s services.
+Gitrob (https://github.com/michenriksen/gitrob/) finds potentially sensitive
+files that are pushed to public repositories on GitHub.
+TruffleHog (https://github.com/trufflesecurity/truffleHog/) specializes in
+finding secrets in public GitHub repositories by searching for string
+patterns and high-entropy strings.
+PasteHunter (https://github.com/kevthehermit/PasteHunter/) scans online
+paste sites for sensitive information.
+Wayback Machine (https://archive.org/web/) is a digital archive of internet
+content. You can use it to find old versions of sites and their files.
+Waybackurls (https://github.com/tomnomnom/waybackurls/) fetches URLs
+from the Wayback Machine.
